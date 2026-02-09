@@ -1,5 +1,3 @@
-# Youtube_Comment_Sentiment_Analyzer
-YouTube Comment Sentiment Analyzer is a Python-based tool that fetches comments from YouTube videos using the YouTube Data API and analyzes their sentiment as positive, negative, or neutral. It helps creators and analysts quickly understand audience feedback and engagement without manually reviewing comments.
 
 # YouTube Comment Sentiment Analyzer 🎥💬
 
@@ -76,7 +74,7 @@ Neutral: 25%
 Negative: 15%
 
 
-⸻
+
 
 🧠 How It Works
 	1.	Takes a YouTube video URL as input
@@ -85,7 +83,8 @@ Negative: 15%
 	4.	Applies sentiment analysis model
 	5.	Displays sentiment summary
 
-⸻
+
+
 
 📌 Use Cases
 	•	YouTube content analysis
@@ -93,7 +92,7 @@ Negative: 15%
 	•	Social media sentiment analysis
 	•	NLP learning project
 
-⸻
+	
 
 🤝 Contributing
 
@@ -103,13 +102,15 @@ Contributions are welcome!
 	3.	Commit your changes
 	4.	Open a Pull Request
 
-⸻
+
+
 
 📄 License
 
 This project is licensed under the MIT License.
 
-⸻
+
+
 
 ⭐ Acknowledgements
 	•	YouTube Data API
